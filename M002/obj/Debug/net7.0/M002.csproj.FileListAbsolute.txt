@@ -1,0 +1,15 @@
+C:\Users\lk3\source\repos\CSharp_Grundkurs_2023_10_24\M002\bin\Debug\net7.0\M002.exe
+C:\Users\lk3\source\repos\CSharp_Grundkurs_2023_10_24\M002\bin\Debug\net7.0\M002.deps.json
+C:\Users\lk3\source\repos\CSharp_Grundkurs_2023_10_24\M002\bin\Debug\net7.0\M002.runtimeconfig.json
+C:\Users\lk3\source\repos\CSharp_Grundkurs_2023_10_24\M002\bin\Debug\net7.0\M002.dll
+C:\Users\lk3\source\repos\CSharp_Grundkurs_2023_10_24\M002\bin\Debug\net7.0\M002.pdb
+C:\Users\lk3\source\repos\CSharp_Grundkurs_2023_10_24\M002\obj\Debug\net7.0\M002.csproj.AssemblyReference.cache
+C:\Users\lk3\source\repos\CSharp_Grundkurs_2023_10_24\M002\obj\Debug\net7.0\M002.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lk3\source\repos\CSharp_Grundkurs_2023_10_24\M002\obj\Debug\net7.0\M002.AssemblyInfoInputs.cache
+C:\Users\lk3\source\repos\CSharp_Grundkurs_2023_10_24\M002\obj\Debug\net7.0\M002.AssemblyInfo.cs
+C:\Users\lk3\source\repos\CSharp_Grundkurs_2023_10_24\M002\obj\Debug\net7.0\M002.csproj.CoreCompileInputs.cache
+C:\Users\lk3\source\repos\CSharp_Grundkurs_2023_10_24\M002\obj\Debug\net7.0\M002.dll
+C:\Users\lk3\source\repos\CSharp_Grundkurs_2023_10_24\M002\obj\Debug\net7.0\refint\M002.dll
+C:\Users\lk3\source\repos\CSharp_Grundkurs_2023_10_24\M002\obj\Debug\net7.0\M002.pdb
+C:\Users\lk3\source\repos\CSharp_Grundkurs_2023_10_24\M002\obj\Debug\net7.0\M002.genruntimeconfig.cache
+C:\Users\lk3\source\repos\CSharp_Grundkurs_2023_10_24\M002\obj\Debug\net7.0\ref\M002.dll

@@ -1,0 +1,2 @@
+Strg + K, Strg + C: Codeblock auskommentieren
+Strg + K, Strg + U: Codeblock einkommentieren
