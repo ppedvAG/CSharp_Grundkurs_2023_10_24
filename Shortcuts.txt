@@ -1,5 +1,6 @@
 Strg + K, Strg + C: Codeblock auskommentieren
 Strg + K, Strg + U: Codeblock einkommentieren
+Strg + K, Strg + D: Code formatieren
 Strg + .: Schnelloptionen zu dem Codeteil unter dem Cursor
 Strg + Leertaste: Vorschläge für Klassen, Funktionen, Variablen, ...
 F12: Zur Definition springen
