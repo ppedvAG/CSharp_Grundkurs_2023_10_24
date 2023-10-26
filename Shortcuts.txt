@@ -5,3 +5,4 @@ Strg + .: Schnelloptionen zu dem Codeteil unter dem Cursor
 Strg + Leertaste: Vorschläge für Klassen, Funktionen, Variablen, ...
 F12: Zur Definition springen
 Alt + Ziehen: Multizeilencursor
+Alt + Pfeil Hoch, Runter: Derzeitige Zeile/Block bewegen
